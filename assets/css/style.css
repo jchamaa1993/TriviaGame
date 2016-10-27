@@ -1,0 +1,20 @@
+li {font-family: 'Lora', serif;
+	font-size: 30px;
+	margin: 10px 0 10px 0;}
+body {
+	background-image: url('../images/background.jpg');
+	background-size: cover;
+}
+
+img {
+	height: 300px;
+	width: 400px;
+	display: block;
+	margin: 0 auto;
+}
+
+p {font-family: 'Oswald', sans-serif;
+	font-size: 36px;}
+
+li { cursor: pointer; cursor: hand;
+	background-color: rgba(100%,100%,100%,0.5)

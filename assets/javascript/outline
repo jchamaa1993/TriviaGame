@@ -1,0 +1,24 @@
+First page
+	Click the start button
+Second through one before final page
+	Have a timer
+	Display this timer.
+	Ask a question and have a correct answer.
+	If correct answer clicked:
+		Congratulate.
+		Show image maybe.
+		Add one to score.
+		After a little bit of time take them to next question.
+	If correct answer not clicked:
+		Tell them incorrect.
+		Tell them right answer.
+		Don't add one to score.
+		After a little bit of time take them to next question.
+	If no answer picked in time limit:
+		Tell them time ran out.
+		Tell them right answer.
+		Don't add one to score.
+		After a little bit of time take them to next question.
+Final screen:
+	Display number of correct answers, incorrect answers, and an option to restart the game.
+
